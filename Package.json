@@ -1,6 +1,7 @@
 {
   "name": "ff-india-server",
   "version": "1.0.0",
+  "description": "Free Fire India Configuration Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
